@@ -7,5 +7,5 @@ For my MVP, I have done initial topic modeling using LSA on a TF-IDF weighted te
 ![](../resources/topics.png)
 
 and the top 3 topic associations for each chapter are:
-
+test
 ![](../resources/document_topic.png)
